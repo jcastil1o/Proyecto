@@ -1,0 +1,54 @@
+# Copyright (c) 1993-1999 Microsoft Corp.
+#
+# Éste es un ejemplo de archivo HOSTS usado por Microsoft TCP/IP para Windows.
+#
+# Este archivo contiene las asignaciones de las direcciones IP a los nombres de
+# host. Cada entrada debe permanecer en una línea individual. La dirección IP
+# debe ponerse en la primera columna, seguida del nombre de host correspondiente.
+# La dirección IP y el nombre de host deben separarse con al menos un espacio.
+# 
+#
+# También pueden insertarse comentarios (como éste) en líneas individuales
+# o a continuación del nombre de equipo indicándolos con el símbolo "#"
+#
+# Por ejemplo:
+#
+#      102.54.94.97     rhino.acme.com          # servidor origen
+#       38.25.63.10     x.acme.com              # host cliente x
+
+127.0.0.1       localhost
+10.60.1.199     webcorp
+10.60.1.201     corp
+10.60.81.111    local
+10.60.1.231	cob-fenacoac
+192.168.2.241	administracion
+10.60.1.193	pagoterceros
+10.60.1.191	tarjetasdecredito
+192.168.2.241	monitorgt
+192.168.1.191	multi1
+10.60.1.231     bankworks
+10.60.1.223     Bizflow
+10.60.1.231 	faps01
+10.60.1.231	faps02
+10.60.1.231	faps03
+10.60.1.180	columna
+10.60.1.98	aeiou
+10.60.1.112	mesadeayuda
+10.60.81.24	help
+10.60.81.3	consultasinternas
+192.168.4.2	creditfactory
+10.60.1.186	sig
+192.168.15.100	maletin
+192.168.1.180	ebank
+184.107.84.43	kb.guadalupana.com.gt
+172.20.1.69 svr-ad.guadalupana.com.gt
+184.107.84.43	mail.guadalupana.com.gt
+172.210.166.135	ws.guadalupana.com.gt
+172.20.1.69	guadalupana.com.gt
+172.18.199.106 	guadalupanafe.processusnet.com
+172.18.199.106 	guadalupanabe.processusnet.com
+172.18.199.106 	guadalupanamicroserv.processusnet.com
+172.16.4.231	tarjeta.if-tech.com
+
+
+127.0.0.1       localhost

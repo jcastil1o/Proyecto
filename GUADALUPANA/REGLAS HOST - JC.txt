@@ -1,0 +1,5 @@
+REGLAS CAMBIO NEW HOST
+Copiar host mas reciente (.138)
+Cambiar DNS:
+	8.8.8.8
+	10.138.15.11

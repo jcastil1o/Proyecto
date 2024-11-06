@@ -1,0 +1,313 @@
+Copia de seguridad Outlook
+
+-- 10.60.246.7 pgaargueta
+	APAGADA
+	APAGADA 13:16 4/11/2024
+	APAGADA 08:17 5/11/2024
+-- 10.60.125.19 pgbguzman
+	Sin copia
+-- 10.60.128.13 pgljimenez
+	Sin copia
+-- 10.60.144.134 pgecardenas
+	Sin copia
+**********************************************************************************
+					13:20 4/11/2024
+Luis
+-- 10.60.81.109	pgtmorales
+	Sin copia
+-- 10.60.128.19	pgedhernandez
+	APAGADA 08:26 5/11/2024	
+-- 10.60.128.243 pglsimon
+	Sin copia
+-- 10.60.128.60	
+	APAGADA 08:26 5/11/2024
+Jonathan
+-- 10.60.209.35	pglaguilar
+	CONTRASEÑA
+-- 10.60.105.114 pgjramirez
+	APAGADO	
+	APAGADO 08:27 5/11/2024
+-- 10.60.84.152	pgjlopez
+	No tiene correo
+-- 10.62.29.56 pgdambrocio
+	Sin copia
+-- 10.62.29.8 pgkmoran
+	CONTRASEÑA
+15:19 4/11/2024
+	
+					13:20 4/11/2024
+**********************************************************************************
+-- 10.60.187.108 pgnchitay
+	Sin copia
+-- 10.60.81.92	pgevalle
+	APAGADA 16:00 4/11/2024
+	APAGADA 08:18 5/11/2024
+	APAGADA 08:27 5/11/2024
+-- 172.30.23.27	pgrlocon
+	APAGADA 15:58 4/11/2024
+	APAGADA 08:28 5/11/2024
+-- 172.30.23.3	
+	APAGADA 16:01 4/11/2024
+	APAGADA 08:29 5/11/2024
+-- 172.30.23.57	William Hovid Mejia
+	APAGADA	16:01 4/11/2024
+	APAGADA 08:30 5/11/2024
+-- 172.30.23.50	Alan García
+	APAGADA 16:01 4/11/2024				
+	APAGADA 08:30 5/11/2024
+-- 10.60.81.60	pgmmayorga
+	Con copia, auditoria
+-- 172.30.23.42	pgegalvez
+	APAGADA 16:02 4/11/2024
+	APAGADA 08:31 5/11/2024	
+-- 172.30.23.80	pghhernandez
+	APAGADA 16:02 4/11/2024
+-- 10.60.125.56	pgjortiz
+	APAGADA  16:03 4/11/2024
+-- 10.60.125.113 pgomorales
+	Sin copia 16:04 4/11/2024
+-- 10.60.125.66	pgeramos
+	Sin copia 15:57 4/11/2024
+-- 10.60.125.58	pgrsamayoa
+	Sin copia 16:05 4/11/2024
+	Sin copia 13:12 4/11/2024
+-- 10.60.125.61	PGAIXCOY
+	APAGADA 16:05 4/11/2024
+-- 10.60.125.60	pgdruiz
+	APAGADA 16:05 4/11/2024	
+-- 10.60.125.56	pgjortiz
+	APAGADA 16:06 4/11/2024
+-- 10.60.125.66	pgeramos
+	APAGADA 16:06 4/11/2024
+-- 172.30.23.74	pgjcastillo
+	APAGADA	16:06 4/11/2024
+-- 172.30.23.12	pgapaz
+	APAGADA 16:06 4/11/2024
+-- 172.30.23.10	pgdvelasquez
+	APAGADA 16:07 4/11/2024
+-- 172.30.23.44	pgjyanes
+	APAGADA	
+-- 172.30.23.29	pgctoledo
+	APAGADA 16:07 4/11/2024
+-- 40.60.201.2	pgesowa
+	APAGADA 16:07 4/11/2024
+-- 192.168.1.235 pgcmateo
+	APAGADA	16:07 4/11/2024
+-- 10.60.81.100	pgmgutierrez
+	APAGADA 16:07 4/11/2024
+-- 172.30.23.101 pgppuluc
+	Sin copia 
+-- 10.60.81.38	pgmmendoza
+	Sin copia
+-- 10.60.81.33 pgeguerrero
+	Ocupado 12:18 4/11/2024
+	Ocupado 12:35 4/11/2024
+	Sin copia 13:00 4/11/2024
+-- 10.60.105.30	pgosalguero
+	Sin copia
+-- 172.30.23.76	pgcapacitacion
+	APAGADA
+-- 172.30.23.33	pgcmazariegos
+	APAGADA
+	APAGADA 15:35 4/11/2024
+-- 10.60.105.102 pgwmendez
+	CONTRASEÑA
+-- 10.60.105.221 pghcastillo
+	Sin correo
+-- 10.60.105.123 pgbixen
+	APAGADA
+-- 10.60.105.76	pgkalvarado
+	Sin copia
+-- 10.60.83.31	pgkmuyuz
+	Sin copia
+-- 172.30.23.62	pgiquex
+	APAGADO
+-- 192.168.0.3	pgcsolorzano
+	APAGADO
+-- 40.60.201.9	pgasalazar
+	APAGADA	
+-- 40.60.201.6	pgamonzon
+	APAGADA
+-- 192.168.1.7	pgemoctezuma
+	APAGADA
+-- 10.60.81.48 PGSSANTISTEBAN
+	Sin copia
+-- 10.60.81.167	pgivelasquez
+	APAGADA		
+-- 10.60.81.128	pgeyantuche
+	CONTRASEÑA
+-- 172.30.23.46	pgdalonzo
+	APAGADA
+-- 172.30.24.20	pgcalas
+	APAGADA
+-- 192.168.1.15	pgofuentes
+	APAGADA
+-- 10.60.223.53	pgmcrisostomo
+	Sin copia
+-- 10.60.139.30	pgkvasquez
+	Sin copia
+-- 10.60.125.115 pgmmartinez
+	Sin copia
+-- 192.168.1.124 pgschurumia
+ 	APAGADO
+-- 172.30.23.38	pgrbarrera
+	APAGADO
+-- 10.60.81.114	pgharriola
+	APAGADO
+-- 172.30.24.18	pgrrosales
+	APAGADO	
+-- 10.60.81.170	pgdconstanza
+	CONTRASEÑA
+-- 10.60.81.143 pgyrodriguez
+	APAGADO	
+-- 10.60.81.124	pgecordero
+	APAGADO
+	APAGADO 15:54 4/11/2024
+-- 10.60.81.186	pgcguerra
+	APAGADO
+	APAGADO 15:54 4/11/2024
+-- 10.60.83.212	Kiosco
+	Equipo de Kiosco
+-- 10.60.81.192	Informatica
+	Equipo de Kiosco
+-- 10.60.84.10 Kiosco
+	Equipo de kiosco	
+-- 10.60.125.26	
+	Equipo de kiosco
+-- 10.60.139.40	Kiosco
+	Equipo de kiosco
+-- 10.60.81.157	pgprivera
+	Sin copia
+-- 40.60.6.244 pgyvelasquez
+	Sin copia
+-- 10.60.81.47
+	CONTRASEÑA
+-- 10.60.81.196	pgrcortez
+	CONTRASEÑA	
+-- 40.60.201.15	pgkcruz
+	APAGADA
+-- 10.60.125.28	pgsdonis
+	APAGADA
+-- 10.60.125.34	pgmispache
+	CONTRASEÑA	
+-- 192.168.1.162 pgbvasquez
+	APAGADA
+-- 10.60.125.35	pgpmedina
+	CONTRASEÑA
+-- 192.168.1.188 pgbsaban
+	APAGADA	
+-- 192.168.1.122 pgjposada
+	APAGADA
+-- 10.60.81.68 pgaaraujo
+	Sin copia
+-- 10.60.81.65 pgjveliz
+	CONTRASEÑA
+-- 10.60.81.176	pgbgomez
+	CONTRASEÑA
+-- 10.60.81.11
+	SCANNER
+-- 10.60.81.26	
+	APAGADA
+-- 172.30.24.11	Juan Herrera
+	APAGADA
+-- 192.168.1.147 pgfreyes
+	APAGADA
+-- 10.60.81.166	pggperez
+	Sin copia
+-- 10.60.125.136
+	CONTRASEÑA
+-- 10.60.81.141 pgygarcia
+	CONTRASEÑA
+-- 10.60.81.37 pgcraymundo
+	CONTRASEÑA
+-- 10.60.81.120	pgafabian
+	CONTRASEÑA		
+-- 10.60.81.127	pgdperez
+	APAGADA
+-- 10.60.81.59	pgerustrian
+	CONTRASEÑA
+-- 10.60.81.152 pgsprimero
+	Sin copia
+-- 10.60.81.161 pglflores
+	CONTRASEÑA
+-- 10.60.81.45 pglgonzalez
+	CONTRASEÑA
+-- 10.60.81.129	pgimateo
+	CONTRASEÑA
+-- 172.30.23.59 Informatica
+	APAGADA
+	APAGADA 13:28 4/11/2024	
+	APAGADA 15:53 4/11/2024
+-- 172.30.23.16 pgralopez
+	APAGADA
+	APAGADA 13:27 4/11/2024
+	APAGADA 15:52 4/11/2024
+-- 172.30.23.58 pggacajabon
+	APAGADA
+	APAGADA 13:26 4/11/2024
+	APAGADA 15:52 4/11/2024
+-- 10.60.81.42 
+	DEVIK DE PAZ
+-- 40.60.201.3 pgagomez
+	APAGADA
+	APAGADA 13:26 4/11/2024
+	APAGADA 15:51 4/11/2024
+////////SERVIDORES////////
+-- 10.60.81.138
+-- 10.60.81.137
+-- 10.60.81.242
+////////SERVIDORES//////// 
+	CONTRASEÑA
+-- 172.30.23.8 pgctan
+	Sin copia
+-- 192.168.1.16 pgctan
+	Sin copia
+
+--------- PRIORIDAD ---------
+-- Carla Hernández
+	10.60.83.22 pgchernandez
+		APAGADA
+		APAGADA 13:24 4/11/2024
+		APAGADA 15:50 4/11/2024
+	10.60.128.19 pgedhernandez
+		APAGADA
+		APAGADA 13:23 4/11/2024	
+		APAGADA 15:49 4/11/2024
+	172.30.23.80 pghhernandez
+		APAGADA
+		APAGADA 13:23 4/11/2024
+		APAGADA 15:48 4/11/2024
+	10.60.125.120 pgbhernandez
+		Vilma Hernández, sin copia
+	10.60.128.106 pgedhernandez
+		Edith Hernández, sin copia
+-- Lilian Martinez
+	10.60.125.115 pgmmartinez
+		Marvin Martínez
+			Bloqueada 
+			Desbloqueada, sin copia 11:29 4/11/2024
+	
+	172.30.23.52 pgkmartinez
+		APAGADA
+		APAGADA 13:22 4/11/2024
+		APAGADA 15:47 4/11/2024
+
+	10.60.145.34 pgdmartinez
+		APAGADA
+		APAGADA 13:22 4/11/2024
+		Sin configurar el correo 15:38 4/11/2024
+		Usuario dado de baja 15:42 4/11/2024
+
+------------------ PRIORIDAD ------------------
+	++++++Luis
+kiosco.miraflores@
+evelin.soc@
+sergio.veliz@
+carla.hernandez@
+josue.rosalio@	
+	++++++Jonathan
+daniel.lopez@
+lilian.martinez@
+waymar.garcia@
+rolando.lopez@
+maria.garcia@

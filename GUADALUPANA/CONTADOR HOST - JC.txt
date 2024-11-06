@@ -1,0 +1,9 @@
+CONTADOR CAMBIO HOST:
+
+
+	En general: 128
+	Apagadas: 76
+	Contraseña: 6
+	Ocupadas: 1
+	Pendientes: 49
+	Completadas: 34
